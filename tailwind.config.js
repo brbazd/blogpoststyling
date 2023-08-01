@@ -13,6 +13,7 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                vollkorn: ['Vollkorn', 'serif']
             },
             backgroundImage: {
                 'hero-pattern': "url('/images/head.jpg')"
